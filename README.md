@@ -15,5 +15,6 @@ PHP Class to shorten URLs by calling APIs
     
 # Premium Domains
 The links of premimum domains are redirected without ANY Ads, For Free, For Ever!
-We'll update the list of premium domains gradually and you can contact me if you want your domain in the list. :)
+
+We'll update the list of premium domains gradually and you can [contact me](https://steakovercooked.com/?do=Contact.Mail) if you want your domain in the list. :)
 
