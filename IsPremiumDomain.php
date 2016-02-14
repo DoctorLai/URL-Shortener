@@ -1,4 +1,12 @@
 <?php
+/*
+  if the links redirected are from the following 'premimum domains',
+  no ads will be given during the redirection
+  contact oh@steakovercooked.com if you recommend your domains in the list
+  donation is appreciated:    oh@steakovercooked.com
+  https://rot47.net/_url/
+*/
+
 function IsPremiumDomain($url) {      
   $theurl = strtolower($url);
   $good_domains = array(
