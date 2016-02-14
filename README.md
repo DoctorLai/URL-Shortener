@@ -12,3 +12,8 @@ PHP Class to shorten URLs by calling APIs
     $response = $obj->shorten("https://steakovercooked.com", array("private" => 1));
     var_dump($response);  
     echo $response->url;
+    
+# Premium Domains
+The links of premimum domains are redirected without ANY Ads, For Free, For Ever!
+We'll update the list of premium domains gradually and you can contact me if you want your domain in the list. :)
+
