@@ -24,7 +24,8 @@ function IsPremiumDomain($url) {
     "ask.fm",
     "rot47.net",
     "uploadbeta.com",
-    "zhihua-lai.com"
+    "zhihua-lai.com",
+    "isvbscriptdead.com"
   );
   $parse = parse_url($theurl);
   $domain = $parse['host'];
