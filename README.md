@@ -7,9 +7,9 @@ PHP Class to shorten URLs by calling APIs
 # Sample Usage
 
     $obj = new URL();
-    $response = $obj->shorten("https://steakovercooked.com", array("try" => 1));
+    $response = $obj->shorten("https://steemit.com/@justyy", array("try" => 1));
     var_dump($response);
-    $response = $obj->shorten("https://steakovercooked.com", array("private" => 1));
+    $response = $obj->shorten("https://steemit.com/@justyy", array("private" => 1));
     var_dump($response);  
     echo $response->url;
     
