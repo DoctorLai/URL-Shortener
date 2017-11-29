@@ -2,8 +2,8 @@
 /*
   if the links redirected are from the following 'premimum domains',
   no ads will be given during the redirection
-  contact oh@steakovercooked.com if you recommend your domains in the list
-  donation is appreciated:    oh@steakovercooked.com
+  contact dr.zhihua.lai@gmail.com if you recommend your domains in the list
+  donation is appreciated:    dr.zhihua.lai@gmail.com
   https://rot47.net/_url/
 */
 
@@ -25,6 +25,7 @@ function IsPremiumDomain($url) {
     "rot47.net",
     "uploadbeta.com",
     "zhihua-lai.com",
+    "steemit.com",
     "isvbscriptdead.com"
   );
   $parse = parse_url($theurl);
