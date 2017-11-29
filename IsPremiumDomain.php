@@ -26,6 +26,7 @@ function IsPremiumDomain($url) {
     "uploadbeta.com",
     "zhihua-lai.com",
     "steemit.com",
+    "busy.org",
     "isvbscriptdead.com"
   );
   $parse = parse_url($theurl);
