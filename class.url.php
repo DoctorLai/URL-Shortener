@@ -41,7 +41,7 @@ class URL {
     /**
      * The URL API endpoint
      */
-    const API_ENDPOINT = 'https://uploadbeta.com/api/url';
+    const API_ENDPOINT = 'https://rot47.net/api/url';
     
     /**
      * HTTP headers
